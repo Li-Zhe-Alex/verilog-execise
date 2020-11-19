@@ -1,0 +1,70 @@
+# Compile of 4-phase-handshake.v was successful.
+# Compile of 4phase_handshake_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.four_phase_handshake_tb
+# vsim -gui work.four_phase_handshake_tb 
+# Start time: 18:06:24 on Nov 07,2020
+# Loading work.four_phase_handshake_tb
+# Loading work.four_phase_handshake
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position insertpoint  \
+sim:/four_phase_handshake_tb/clk \
+sim:/four_phase_handshake_tb/reset_n \
+sim:/four_phase_handshake_tb/valid \
+sim:/four_phase_handshake_tb/ack \
+sim:/four_phase_handshake_tb/in \
+sim:/four_phase_handshake_tb/out \
+sim:/four_phase_handshake_tb/req \
+sim:/four_phase_handshake_tb/ready
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Lizhe666666  Hostname: LAPTOP-DNLSA12A  ProcessID: 9120
+#           Attempting to use alternate WLF file "./wlft2cnabj".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft2cnabj
+add wave -position insertpoint  \
+sim:/four_phase_handshake_tb/test/mem \
+sim:/four_phase_handshake_tb/test/tail \
+sim:/four_phase_handshake_tb/test/head \
+sim:/four_phase_handshake_tb/test/full \
+sim:/four_phase_handshake_tb/test/empty \
+sim:/four_phase_handshake_tb/test/state_s \
+sim:/four_phase_handshake_tb/test/state_r
+run
+run
+add wave -position insertpoint  \
+sim:/four_phase_handshake_tb/test/data_out
+restart
+run
+run
+# Compile of 4-phase-handshake.v was successful.
+# Compile of 4phase_handshake_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# Loading work.four_phase_handshake_tb
+# Loading work.four_phase_handshake
+run
+run
+# Compile of 4-phase-handshake.v was successful.
+# Compile of 4phase_handshake_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# Loading work.four_phase_handshake_tb
+# Loading work.four_phase_handshake
+run
+run
+# Compile of 4-phase-handshake.v was successful.
+# Compile of 4phase_handshake_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# Loading work.four_phase_handshake_tb
+# Loading work.four_phase_handshake
+run
+run
+# End time: 18:19:08 on Nov 07,2020, Elapsed time: 0:12:44
+# Errors: 14, Warnings: 2

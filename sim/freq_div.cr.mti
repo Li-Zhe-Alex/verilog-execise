@@ -1,0 +1,15 @@
+{D:/verilog execise/freq_div_3-7.v} {1 {vlog -work work -stats=none {D:/verilog execise/freq_div_3-7.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div
+
+Top level modules:
+	freq_div
+
+} {} {}} {D:/verilog execise/freq_div_3-7_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/freq_div_3-7_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div_tb
+
+Top level modules:
+	freq_div_tb
+
+} {} {}}

@@ -1,0 +1,15 @@
+{D:/verilog execise/vote.v} {1 {vlog -work work -stats=none {D:\verilog execise\vote.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vote
+
+Top level modules:
+	vote
+
+} {} {}} {D:/verilog execise/vote_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/vote_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

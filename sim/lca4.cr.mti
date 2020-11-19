@@ -1,0 +1,36 @@
+{D:/verilog execise/4bit_LCA.v} {1 {vlog -work work -stats=none {D:/verilog execise/4bit_LCA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lca_4
+
+Top level modules:
+	lca_4
+
+} {} {}} {D:/verilog execise/pg_gen.v} {1 {vlog -work work -stats=none {D:/verilog execise/pg_gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pg_gen
+
+Top level modules:
+	pg_gen
+
+} {} {}} {D:/verilog execise/LCA.v} {1 {vlog -work work -stats=none {D:/verilog execise/LCA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lca
+
+Top level modules:
+	lca
+
+} {} {}} {D:/verilog execise/lca_4tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/lca_4tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lca4tb
+
+Top level modules:
+	lca4tb
+
+} {} {}} {D:/verilog execise/lca_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/lca_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lca_tb
+
+Top level modules:
+	lca_tb
+
+} {} {}}

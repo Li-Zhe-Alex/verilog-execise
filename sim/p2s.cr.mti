@@ -1,0 +1,15 @@
+{D:/verilog execise/p2s_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/p2s_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module p2s_tb
+
+Top level modules:
+	p2s_tb
+
+} {} {}} {D:/verilog execise/p2s.v} {1 {vlog -work work -stats=none {D:/verilog execise/p2s.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module p2s
+
+Top level modules:
+	p2s
+
+} {} {}}

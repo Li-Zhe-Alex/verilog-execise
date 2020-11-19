@@ -1,0 +1,29 @@
+{D:/verilog execise/handshack_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/handshack_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module handsh_tb
+
+Top level modules:
+	handsh_tb
+
+} {} {}} {D:/verilog execise/handshake.v} {1 {vlog -work work -stats=none {D:/verilog execise/handshake.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module handshack
+
+Top level modules:
+	handshack
+
+} {} {}} {D:/verilog execise/handshake_send.v} {1 {vlog -work work -stats=none {D:/verilog execise/handshake_send.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module handshack_s
+
+Top level modules:
+	handshack_s
+
+} {} {}} {D:/verilog execise/handshack_get.v} {1 {vlog -work work -stats=none {D:/verilog execise/handshack_get.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module handshack_r
+
+Top level modules:
+	handshack_r
+
+} {} {}}

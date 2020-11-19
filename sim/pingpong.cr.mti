@@ -1,0 +1,15 @@
+{D:/verilog execise/pingpong_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/pingpong_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pingpong_tb
+
+Top level modules:
+	pingpong_tb
+
+} {} {}} {D:/verilog execise/pingpong_buffer.v} {1 {vlog -work work -stats=none {D:/verilog execise/pingpong_buffer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pingpong
+
+Top level modules:
+	pingpong
+
+} {} {}}

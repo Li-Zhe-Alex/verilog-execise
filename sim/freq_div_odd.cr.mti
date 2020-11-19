@@ -1,0 +1,15 @@
+{D:/verilog execise/freq_div_odd.v} {1 {vlog -work work -stats=none {D:/verilog execise/freq_div_odd.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div_odd
+
+Top level modules:
+	freq_div_odd
+
+} {} {}} {D:/verilog execise/freq_div_odd_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/freq_div_odd_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div_odd_tb
+
+Top level modules:
+	freq_div_odd_tb
+
+} {} {}}

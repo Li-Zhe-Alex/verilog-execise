@@ -1,0 +1,15 @@
+{D:/verilog execise/one_hot.v} {1 {vlog -work work -stats=none {D:/verilog execise/one_hot.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module one_hot
+
+Top level modules:
+	one_hot
+
+} {} {}} {D:/verilog execise/one_hot_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/one_hot_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module one_hot_tb
+
+Top level modules:
+	one_hot_tb
+
+} {} {}}

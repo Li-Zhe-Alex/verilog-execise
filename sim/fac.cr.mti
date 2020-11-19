@@ -1,0 +1,15 @@
+{D:/verilog execise/factorial_fun_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/factorial_fun_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {D:/verilog execise/factorial_fun.v} {1 {vlog -work work -stats=none {D:\verilog execise\factorial_fun.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fac
+
+Top level modules:
+	fac
+
+} {} {}}

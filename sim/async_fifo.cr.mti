@@ -1,0 +1,8 @@
+{D:/verilog execise/async_fifo_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/async_fifo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module async_fifo_tb
+
+Top level modules:
+	async_fifo_tb
+
+} {} {}}

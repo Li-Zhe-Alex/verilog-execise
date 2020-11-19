@@ -1,0 +1,1480 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/try
+varbiter
+Z1 !s110 1601032760
+!i10b 1
+!s100 GMcd]ZhSn6[7UUoZ^A3@40
+IcRPnnm]ho4X01`F@4nZ193
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1601032730
+Z4 8D:/verilog execise/arbiter.v
+Z5 FD:/verilog execise/arbiter.v
+L0 17
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1601032760.000000
+Z8 !s107 D:/verilog execise/arbiter.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/arbiter.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+varbiter_tb
+R1
+!i10b 1
+!s100 Z::EO;NWk:_b6m]d3l3bR3
+IMA`TMM4[Cz0`G_5BXV6ED3
+R2
+R0
+w1601032742
+8D:/verilog execise/arbiter_tb.v
+FD:/verilog execise/arbiter_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/verilog execise/arbiter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/arbiter_tb.v|
+!i113 1
+R10
+R11
+vasync_fifo
+!s110 1604699053
+!i10b 1
+!s100 cbZM@o]0F8Kza9mG0kYYC0
+IgVA@7[=QUI]5D?lIkVK_I2
+R2
+R0
+w1604699047
+8D:/verilog execise/async_fifo.v
+FD:/verilog execise/async_fifo.v
+Z12 L0 14
+R6
+r1
+!s85 0
+31
+!s108 1604699053.000000
+!s107 D:/verilog execise/async_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/async_fifo.v|
+!i113 1
+R10
+R11
+vasync_fifo_depth13_tb
+!s110 1600791859
+!i10b 1
+!s100 l>ShIaS`EU`[9BYT=eiJ<2
+IAlNgY@I72S?9M^mAERD8A2
+R2
+R0
+w1600791479
+Z13 8D:/verilog execise/async_fifo_depth5_tb.v
+Z14 FD:/verilog execise/async_fifo_depth5_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600791859.000000
+Z15 !s107 D:/verilog execise/async_fifo_depth5_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/async_fifo_depth5_tb.v|
+!i113 1
+R10
+R11
+vasync_fifo_depth5
+Z17 !s110 1604699720
+!i10b 1
+!s100 ^V`S=7hY`<25?:ffdd2OU0
+IVH_G1N9;98RJ;P3]i`<Ik0
+R2
+R0
+Z18 w1604699713
+Z19 8D:/verilog execise/async_fifo_depth5.v
+Z20 FD:/verilog execise/async_fifo_depth5.v
+R12
+R6
+r1
+!s85 0
+31
+Z21 !s108 1604699720.000000
+Z22 !s107 D:/verilog execise/async_fifo_depth5.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/async_fifo_depth5.v|
+!i113 1
+R10
+R11
+vasync_fifo_depth5_tb
+R17
+!i10b 1
+!s100 ke8jz1P_1Ocz68SGLa00@2
+IIZZj7iUUB^dc`T6ciBaPn3
+R2
+R0
+w1604679039
+R13
+R14
+L0 1
+R6
+r1
+!s85 0
+31
+R21
+R15
+R16
+!i113 1
+R10
+R11
+vasync_fifo_tb
+!s110 1604699052
+!i10b 1
+!s100 lQnfVj7;ECkao7K=bRHiL3
+I3oIz_F><Ml;D=LbIJflPm1
+R2
+R0
+w1604684066
+8D:/verilog execise/async_fifo_tb.v
+FD:/verilog execise/async_fifo_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1604699052.000000
+!s107 D:/verilog execise/async_fifo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/async_fifo_tb.v|
+!i113 1
+R10
+R11
+vautosell
+!s110 1601239888
+!i10b 1
+!s100 @ETZl99cK]>a1C`kQ3EQ<3
+Ifn:=CTF7gg;4Y;=Y5dhPB1
+R2
+R0
+w1601239509
+8D:/verilog execise/autosell.v
+FD:/verilog execise/autosell.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601239888.000000
+!s107 D:/verilog execise/autosell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/autosell.v|
+!i113 1
+R10
+R11
+vautosell_tb
+!s110 1601330282
+!i10b 1
+!s100 IOMSGiAfTiFPSC^UA16J`1
+IgkUJZmd;QYAW4:RzRIW^52
+R2
+R0
+w1601239965
+8D:/verilog execise/autosell_tb.v
+FD:/verilog execise/autosell_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601330282.000000
+!s107 D:/verilog execise/autosell_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/autosell_tb.v|
+!i113 1
+R10
+R11
+vbasic_fsm
+Z24 !s110 1600513009
+!i10b 1
+!s100 R>Y3KJ=1S<D9VI;LJiOne1
+IG9Q9JKNkU5E42E3R`M]FP1
+R2
+R0
+w1600511449
+8D:\verilog execise\basic_fsm.v
+FD:\verilog execise\basic_fsm.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z25 !s108 1600513009.000000
+!s107 D:\verilog execise\basic_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\basic_fsm.v|
+!i113 1
+R10
+R11
+vbasic_fsm_tb
+R24
+!i10b 1
+!s100 IkdAje]@m4=cX`ILD2Yd@2
+IMIBjmN`;XcZP>N:YA]8E?3
+R2
+R0
+w1600512992
+8D:\verilog execise\basic_fsm_tb.v
+FD:\verilog execise\basic_fsm_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R25
+!s107 D:\verilog execise\basic_fsm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\basic_fsm_tb.v|
+!i113 1
+R10
+R11
+vbcd60
+!s110 1600272341
+!i10b 1
+!s100 ^kCYAhVkjf4DNlS1Z<?bA1
+IMWF@39L;L9faX<[V@TfZI3
+R2
+R0
+w1600271861
+8D:\verilog execise\bcd60.v
+FD:\verilog execise\bcd60.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600272341.000000
+!s107 D:\verilog execise\bcd60.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\bcd60.v|
+!i113 1
+R10
+R11
+vbcddisplay
+!s110 1600274358
+!i10b 1
+!s100 fROVf?JY:mmQB?6O]ni7<2
+IGCCK]ZmfC46S?icVX:gXR1
+R2
+R0
+w1600274214
+8D:\verilog execise\bcddisplay.v
+FD:\verilog execise\bcddisplay.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600274358.000000
+!s107 D:\verilog execise\bcddisplay.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\bcddisplay.v|
+!i113 1
+R10
+R11
+vcounter
+!s110 1600251688
+!i10b 1
+!s100 XXTUn[cA0_N:GIB;k7X6Y1
+Id;9<^k?bzE62?CRT]1YnV3
+R2
+R0
+w1600251040
+8D:/verilog execise/counter.v
+FD:/verilog execise/counter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600251688.000000
+!s107 D:/verilog execise/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/counter.v|
+!i113 1
+R10
+R11
+vcounterpre
+!s110 1600264885
+!i10b 1
+!s100 4]VKlWXd5LfZ0=dhRdz8S1
+IUAkjYS?N3lOY<94V[_NlN0
+R2
+R0
+w1600264207
+8D:/verilog execise/counterpre.v
+FD:/verilog execise/counterpre.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600264885.000000
+!s107 D:/verilog execise/counterpre.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/counterpre.v|
+!i113 1
+R10
+R11
+vfac
+Z26 !s110 1600338955
+!i10b 1
+!s100 9fmAMX=JJ:Lcn9=H;FzEQ1
+I=deXM@fYe`nWg:8LdW90L1
+R2
+R0
+w1600338941
+8D:\verilog execise\factorial_fun.v
+FD:\verilog execise\factorial_fun.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z27 !s108 1600338955.000000
+!s107 D:\verilog execise\factorial_fun.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\factorial_fun.v|
+!i113 1
+R10
+R11
+vfour_phase_handshake
+Z28 !s110 1604769455
+!i10b 1
+!s100 QlTW@S1oEel4eAWgCE?WW3
+IH4@l=G9J>9m;`AYH3Kl;C3
+R2
+R0
+w1604769450
+8D:/verilog execise/4-phase-handshake.v
+FD:/verilog execise/4-phase-handshake.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z29 !s108 1604769455.000000
+!s107 D:/verilog execise/4-phase-handshake.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/4-phase-handshake.v|
+!i113 1
+R10
+R11
+vfour_phase_handshake_tb
+R28
+!i10b 1
+!s100 9I@fPOTQ]O7LeebcUlLke1
+I22_PVCzT`lO8CozfdLNcT0
+R2
+R0
+w1604768541
+8D:/verilog execise/4phase_handshake_tb.v
+FD:/verilog execise/4phase_handshake_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R29
+!s107 D:/verilog execise/4phase_handshake_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/4phase_handshake_tb.v|
+!i113 1
+R10
+R11
+vfreq_div
+Z30 !s110 1600973289
+!i10b 1
+!s100 JTR96EX_U?FB`j[Hi_]4V1
+I?Pi72dW[04TZK=JIHeCJW2
+R2
+R0
+w1600973263
+8D:/verilog execise/freq_div_3-7.v
+FD:/verilog execise/freq_div_3-7.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z31 !s108 1600973289.000000
+!s107 D:/verilog execise/freq_div_3-7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_3-7.v|
+!i113 1
+R10
+R11
+vfreq_div2_tb
+Z32 !s110 1600957684
+!i10b 1
+!s100 XKSI4lICom=XmX[9A^iI_1
+I]gQF8]?UDOkB[L7K3?P[82
+R2
+R0
+w1600957680
+8D:/verilog execise/Freq_divide2_tb.v
+FD:/verilog execise/Freq_divide2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z33 !s108 1600957684.000000
+!s107 D:/verilog execise/Freq_divide2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/Freq_divide2_tb.v|
+!i113 1
+R10
+R11
+vfreq_div_even
+Z34 !s110 1601456297
+!i10b 1
+!s100 ^Qa8TD5HDl3Q2dIZ4kg[H0
+IcO@QGk[X<FZNRS4=YRnWC3
+R2
+R0
+w1601456294
+8D:/verilog execise/freq_div_even.v
+FD:/verilog execise/freq_div_even.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z35 !s108 1601456297.000000
+!s107 D:/verilog execise/freq_div_even.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_even.v|
+!i113 1
+R10
+R11
+vfreq_div_even_tb
+R34
+!i10b 1
+!s100 RagQB@FERR`MEbiUcUKW;1
+Ia>ONdm6?JA7K=WH]mIeWE3
+R2
+R0
+w1600959260
+8D:/verilog execise/freq_div_even_tb.v
+FD:/verilog execise/freq_div_even_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R35
+!s107 D:/verilog execise/freq_div_even_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_even_tb.v|
+!i113 1
+R10
+R11
+vfreq_div_odd
+Z36 !s110 1600970589
+!i10b 1
+!s100 F9a>]PS1Wm<CHUDl<^>891
+I9EVKnbI:kU<R>Jh`<YH^H2
+R2
+R0
+w1600970583
+8D:/verilog execise/freq_div_odd.v
+FD:/verilog execise/freq_div_odd.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z37 !s108 1600970589.000000
+!s107 D:/verilog execise/freq_div_odd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_odd.v|
+!i113 1
+R10
+R11
+vfreq_div_odd_tb
+R36
+!i10b 1
+!s100 ?I96XC:K1JbD>53Q6Bh@;0
+I^0IT7J7k[SON[S=`keaMi0
+R2
+R0
+w1600960044
+8D:/verilog execise/freq_div_odd_tb.v
+FD:/verilog execise/freq_div_odd_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R37
+!s107 D:/verilog execise/freq_div_odd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_odd_tb.v|
+!i113 1
+R10
+R11
+vfreq_div_tb
+R30
+!i10b 1
+!s100 316NA9mL33gc^^z>NUkOB3
+IZ?U4NZk^HM5_g0iQ[OQ0j2
+R2
+R0
+w1600972860
+8D:/verilog execise/freq_div_3-7_tb.v
+FD:/verilog execise/freq_div_3-7_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R31
+!s107 D:/verilog execise/freq_div_3-7_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/freq_div_3-7_tb.v|
+!i113 1
+R10
+R11
+vfreq_divide2
+R32
+!i10b 1
+!s100 XCRIml<Ybz;c8=o^lhKA@3
+Iog6oN:VH_YOa[Ho>Uog:k2
+R2
+R0
+w1600957625
+8D:/verilog execise/Freq_divide2.v
+FD:/verilog execise/Freq_divide2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R33
+!s107 D:/verilog execise/Freq_divide2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/Freq_divide2.v|
+!i113 1
+R10
+R11
+vfudan17
+Z38 !s110 1601071287
+!i10b 1
+!s100 l<3jkN`X0R<[8NcU]Z<QV2
+I`JfYbK9HYK]8kfloY6GLQ3
+R2
+R0
+w1601071270
+8D:/verilog execise/fudanwei2017.v
+FD:/verilog execise/fudanwei2017.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z39 !s108 1601071287.000000
+!s107 D:/verilog execise/fudanwei2017.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/fudanwei2017.v|
+!i113 1
+R10
+R11
+vfudan17_tb
+R38
+!i10b 1
+!s100 3OI[ggj@C[N5><55[MhPQ1
+I^85UY@>:_`AHk2A5^0a`B3
+R2
+R0
+w1601071282
+8D:/verilog execise/fudanwei2017_tb.v
+FD:/verilog execise/fudanwei2017_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R39
+!s107 D:/verilog execise/fudanwei2017_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/fudanwei2017_tb.v|
+!i113 1
+R10
+R11
+vfull_adder
+!s110 1600249706
+!i10b 1
+!s100 eVioVd<Hf__h^WaP[ZYFK0
+I:`AFDN5OKW;L]e;oz[d3W1
+R2
+R0
+w1600249701
+8D:\verilog execise\4bits_full_adder.v
+FD:\verilog execise\4bits_full_adder.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600249706.000000
+!s107 D:\verilog execise\4bits_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\4bits_full_adder.v|
+!i113 1
+R10
+R11
+vglitch
+Z40 !s110 1601414279
+!i10b 1
+!s100 ^^kdm>_36F3[?gnF;NAni3
+IIOMTAP5Vl:jm@OdW4BeHP0
+R2
+R0
+w1601413793
+8D:/verilog execise/glitchfree.v
+FD:/verilog execise/glitchfree.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z41 !s108 1601414279.000000
+!s107 D:/verilog execise/glitchfree.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/glitchfree.v|
+!i113 1
+R10
+R11
+vglitch_tb
+R40
+!i10b 1
+!s100 ;K5YcC^A3J2jLjUlLD1Qk2
+I=2za?b^TnEh0DYQ71T:Ie0
+R2
+R0
+w1601414273
+8D:/verilog execise/glitchfree_tb.v
+FD:/verilog execise/glitchfree_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R41
+!s107 D:/verilog execise/glitchfree_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/glitchfree_tb.v|
+!i113 1
+R10
+R11
+vgrant
+R1
+!i10b 1
+!s100 ea5LZeA0SXJ9YiEHQP?ZR3
+IUj:8<8AJWDzomF^[Eh=dS0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vgray
+R17
+!i10b 1
+!s100 OWniR=1SI>NLKe9f_P_X;3
+IigcUnoz1MUzfOjSjz5F8@2
+R2
+R0
+R18
+R19
+R20
+L0 1
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vhandsh_tb
+Z42 !s110 1601384689
+!i10b 1
+!s100 C<f6;7_DUFXJ2aOSP5IaR3
+IHUH^AkV1;J7FVKOT=dlaj1
+R2
+R0
+w1601368614
+8D:/verilog execise/handshack_tb.v
+FD:/verilog execise/handshack_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z43 !s108 1601384689.000000
+!s107 D:/verilog execise/handshack_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/handshack_tb.v|
+!i113 1
+R10
+R11
+vhandshack
+R42
+!i10b 1
+!s100 eAN`B43hn2C:e8:IUCbN72
+ITQP=6Y;nhX26DAIN9=>i73
+R2
+R0
+w1601365889
+Z44 8D:/verilog execise/handshake.v
+Z45 FD:/verilog execise/handshake.v
+L0 1
+R6
+r1
+!s85 0
+31
+R43
+Z46 !s107 D:/verilog execise/handshake.v|
+Z47 !s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/handshake.v|
+!i113 1
+R10
+R11
+vhandshack_r
+R42
+!i10b 1
+!s100 CM]Xk0bo>1oIS]z37Q1J`2
+I=JLiNXnFlJg5^[;EY^b3k1
+R2
+R0
+w1601384685
+8D:/verilog execise/handshack_get.v
+FD:/verilog execise/handshack_get.v
+L0 1
+R6
+r1
+!s85 0
+31
+R43
+!s107 D:/verilog execise/handshack_get.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/handshack_get.v|
+!i113 1
+R10
+R11
+vhandshack_s
+R42
+!i10b 1
+!s100 E?3Lfb6PJol@nOM`D[VML0
+ISd5A=X>2JTSYb>[Yi1Ecn3
+R2
+R0
+w1601367067
+8D:/verilog execise/handshake_send.v
+FD:/verilog execise/handshake_send.v
+L0 1
+R6
+r1
+!s85 0
+31
+R43
+!s107 D:/verilog execise/handshake_send.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/handshake_send.v|
+!i113 1
+R10
+R11
+vhandshake
+!s110 1601331663
+!i10b 1
+!s100 7dG0f^RaG7e?;Ik9__UO;0
+IT[I88^6N;2m]MdC8Na5^F0
+R2
+R0
+w1601331549
+R44
+R45
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601331663.000000
+R46
+R47
+!i113 1
+R10
+R11
+vlca
+Z48 !s110 1601473987
+!i10b 1
+!s100 _XREEfdLSXX6V<NFlLV9k2
+IL=3jHkV69LeD49?=UPNBC2
+R2
+R0
+w1601473846
+8D:/verilog execise/LCA.v
+FD:/verilog execise/LCA.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z49 !s108 1601473987.000000
+!s107 D:/verilog execise/LCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/LCA.v|
+!i113 1
+R10
+R11
+vlca4tb
+!s110 1601473986
+!i10b 1
+!s100 >ic[z8;=9B^m1fnf4N9fm1
+I2<TIheBTKPOd5KdEO:b_A2
+R2
+R0
+w1601472041
+8D:/verilog execise/lca_4tb.v
+FD:/verilog execise/lca_4tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601473986.000000
+!s107 D:/verilog execise/lca_4tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/lca_4tb.v|
+!i113 1
+R10
+R11
+vlca_4
+R48
+!i10b 1
+!s100 Lka5OzlZzBcz9KOP>coiS0
+I44QQ3=3n`0C`ScC9V3NX:0
+R2
+R0
+w1601472212
+8D:/verilog execise/4bit_LCA.v
+FD:/verilog execise/4bit_LCA.v
+L0 1
+R6
+r1
+!s85 0
+31
+R49
+!s107 D:/verilog execise/4bit_LCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/4bit_LCA.v|
+!i113 1
+R10
+R11
+vlca_tb
+R48
+!i10b 1
+!s100 7?[=^AzTXhT8Z1d:P5RcK2
+I@WbT8>>f7Q?n^T_7ckmN]3
+R2
+R0
+w1601473982
+8D:/verilog execise/lca_tb.v
+FD:/verilog execise/lca_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R49
+!s107 D:/verilog execise/lca_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/lca_tb.v|
+!i113 1
+R10
+R11
+vmultiply
+!s110 1600330616
+!i10b 1
+!s100 XIebBkhikdo2UVNnJCEDb2
+I=dU7hYb>SLbBcmLdW:>cN2
+R2
+R0
+w1600330563
+8D:/verilog execise/multiply.v
+FD:/verilog execise/multiply.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600330616.000000
+!s107 D:/verilog execise/multiply.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/multiply.v|
+!i113 1
+R10
+R11
+vmux
+!s110 1600253961
+!i10b 1
+!s100 ^<Gl6BanSRz^Fd:;h]DQa2
+I>?bknb6_lR;N51Zl;MH_d2
+R2
+R0
+w1600253956
+Z50 8D:\verilog execise\4mux1.v
+Z51 FD:\verilog execise\4mux1.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600253961.000000
+Z52 !s107 D:\verilog execise\4mux1.v|
+Z53 !s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\4mux1.v|
+!i113 1
+R10
+R11
+vmux41
+!s110 1600253890
+!i10b 1
+!s100 YlZ]TG<GnMj`Eglzz0iRL0
+IDb>fQWV3<L?8^I;zfTiiE3
+R2
+R0
+w1600253877
+R50
+R51
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600253890.000000
+R52
+R53
+!i113 1
+R10
+R11
+vone_hot
+!s110 1604677055
+!i10b 1
+!s100 <_Ojd>C406^^ToKnf9?cf2
+IIeZLgO<WzCAA`PcD8A;;Y3
+R2
+R0
+w1604677047
+8D:/verilog execise/one_hot.v
+FD:/verilog execise/one_hot.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1604677055.000000
+!s107 D:/verilog execise/one_hot.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/one_hot.v|
+!i113 1
+R10
+R11
+vone_hot_tb
+!s110 1604676765
+!i10b 1
+!s100 YM@3Y>:@gSIczZz1`PnSN1
+IV7^j6RLInb@gR7;2XY@a13
+R2
+R0
+w1604676758
+8D:/verilog execise/one_hot_tb.v
+FD:/verilog execise/one_hot_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1604676765.000000
+!s107 D:/verilog execise/one_hot_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/one_hot_tb.v|
+!i113 1
+R10
+R11
+voperation
+!s110 1600268077
+!i10b 1
+!s100 ^TI0MBZCUQ`7S82i?FE410
+I7P2X1DKZA^nm:XQijQJ581
+R2
+R0
+w1600268074
+8D:\verilog execise\operation.v
+FD:\verilog execise\operation.v
+L0 10
+R6
+r1
+!s85 0
+31
+!s108 1600268077.000000
+!s107 D:\verilog execise\operation.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\operation.v|
+!i113 1
+R10
+R11
+vp2s
+Z54 !s110 1601405625
+!i10b 1
+!s100 of`R`0=jIk_6R_iX156aN1
+IXMV2?Nf2P__P6NY6F8ie32
+R2
+R0
+w1601405619
+8D:/verilog execise/p2s.v
+FD:/verilog execise/p2s.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z55 !s108 1601405625.000000
+!s107 D:/verilog execise/p2s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/p2s.v|
+!i113 1
+R10
+R11
+vp2s_tb
+R54
+!i10b 1
+!s100 gM7LnB3hg1WMfMNW<1U]21
+IhPBa0nbnBkAkSf_cJ=QIo3
+R2
+R0
+w1601405316
+8D:/verilog execise/p2s_tb.v
+FD:/verilog execise/p2s_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R55
+!s107 D:/verilog execise/p2s_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/p2s_tb.v|
+!i113 1
+R10
+R11
+vparity_check
+Z56 !s110 1601151066
+!i10b 1
+!s100 lB?hMNZUc_e5UDUeCf=cL0
+IBA]XlLN2iE11Q^T5_=86M0
+R2
+R0
+w1601150974
+8D:/verilog execise/parity.v
+FD:/verilog execise/parity.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601151066.000000
+!s107 D:/verilog execise/parity.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/parity.v|
+!i113 1
+R10
+R11
+vparity_tb
+R56
+!i10b 1
+!s100 ^aANg`4K?U6:PFTlGMlSY3
+I>PG]kj>mEYH9`b`kRz<4O1
+R2
+R0
+w1601150972
+8D:/verilog execise/parity_tb.v
+FD:/verilog execise/parity_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601151065.000000
+!s107 D:/verilog execise/parity_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/parity_tb.v|
+!i113 1
+R10
+R11
+vpg_gen
+R48
+!i10b 1
+!s100 7VnHZVdLce8BzCOoCEBE>0
+I:XRXc`3MQQzV<Ejd_995_0
+R2
+R0
+w1601470303
+8D:/verilog execise/pg_gen.v
+FD:/verilog execise/pg_gen.v
+L0 1
+R6
+r1
+!s85 0
+31
+R49
+!s107 D:/verilog execise/pg_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/pg_gen.v|
+!i113 1
+R10
+R11
+vpingpong
+Z57 !s110 1601409086
+!i10b 1
+!s100 4[K<M3aB_?_WVnXZZ`e?c2
+IG3kn3L^kCBzXzVf;Eaf9B2
+R2
+R0
+w1601409081
+8D:/verilog execise/pingpong_buffer.v
+FD:/verilog execise/pingpong_buffer.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z58 !s108 1601409086.000000
+!s107 D:/verilog execise/pingpong_buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/pingpong_buffer.v|
+!i113 1
+R10
+R11
+vpingpong_tb
+R57
+!i10b 1
+!s100 nUXGgj@a@TZ9]mazSamW53
+I65[QIho==Zf[Z2h;<mbEn0
+R2
+R0
+w1601408542
+8D:/verilog execise/pingpong_tb.v
+FD:/verilog execise/pingpong_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R58
+!s107 D:/verilog execise/pingpong_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/pingpong_tb.v|
+!i113 1
+R10
+R11
+vrange_change
+Z59 !s110 1600517078
+!i10b 1
+!s100 c_VnkY0XJ2K[:7]B3>=0;0
+I81>OII7>08X_E=YD1:J?53
+R2
+R0
+w1600516792
+8D:/verilog execise/range_change.v
+FD:/verilog execise/range_change.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z60 !s108 1600517078.000000
+!s107 D:/verilog execise/range_change.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/range_change.v|
+!i113 1
+R10
+R11
+vrange_change_tb
+R59
+!i10b 1
+!s100 XA6dK96MP3f3nb8INgm>12
+IMBoJRD=7@=T?7:L2nmZ@l0
+R2
+R0
+w1600517070
+8D:/verilog execise/range_change_tb.v
+FD:/verilog execise/range_change_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R60
+!s107 D:/verilog execise/range_change_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/range_change_tb.v|
+!i113 1
+R10
+R11
+vs2p
+Z61 !s110 1601400411
+!i10b 1
+!s100 6Z:_QZnODB96QaCU5787W3
+IS92VCaNf?KoW[3[n<_aOH1
+R2
+R0
+w1601400405
+8D:/verilog execise/s2p.v
+FD:/verilog execise/s2p.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601400410.000000
+!s107 D:/verilog execise/s2p.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/s2p.v|
+!i113 1
+R10
+R11
+vs2p_tb
+R61
+!i10b 1
+!s100 Jma5n>E29@Cg@J_IazGDH3
+IWh2ao==zPko]?07_lOmLz3
+R2
+R0
+w1601400192
+8D:/verilog execise/s2p_tb.v
+FD:/verilog execise/s2p_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601400411.000000
+!s107 D:/verilog execise/s2p_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/s2p_tb.v|
+!i113 1
+R10
+R11
+vseq_det
+Z62 !s110 1601485758
+!i10b 1
+!s100 [mn8M1iZdjILoFL948b552
+IDLQkj@?6CM>U:NcSM6K^R3
+R2
+R0
+w1601485682
+8D:/verilog execise/sequence_detection.v
+FD:/verilog execise/sequence_detection.v
+L0 6
+R6
+r1
+!s85 0
+31
+!s108 1601485758.000000
+!s107 D:/verilog execise/sequence_detection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/sequence_detection.v|
+!i113 1
+R10
+R11
+vseq_det_tb
+R62
+!i10b 1
+!s100 LYem@T=>1LCAbV[RD2S]F3
+IIDnAD1d;3FnbzdLYSM=RP0
+R2
+R0
+w1601485715
+8D:/verilog execise/seq_det_tb.v
+FD:/verilog execise/seq_det_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1601485757.000000
+!s107 D:/verilog execise/seq_det_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/seq_det_tb.v|
+!i113 1
+R10
+R11
+vsync_fifo
+Z63 !s110 1600685073
+!i10b 1
+!s100 CgfN1XSJO@CN:nUn^U_YV2
+IKo]T4[QXz]ziAmgF4NWXJ0
+R2
+R0
+w1600614811
+8D:/verilog execise/sync_fifo.v
+FD:/verilog execise/sync_fifo.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z64 !s108 1600685073.000000
+!s107 D:/verilog execise/sync_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/sync_fifo.v|
+!i113 1
+R10
+R11
+vsync_fifo_tb
+R63
+!i10b 1
+!s100 ieY1iMS]a:Vc3liMZPgQb2
+IFn]EMF1Ye`l`F:n:NX4Pi1
+R2
+R0
+w1600685062
+8D:/verilog execise/sync_fifo_tb.v
+FD:/verilog execise/sync_fifo_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R64
+!s107 D:/verilog execise/sync_fifo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/sync_fifo_tb.v|
+!i113 1
+R10
+R11
+vtaskrun
+!s110 1600338515
+!i10b 1
+!s100 6JW2ZH3hCM_zB[JVd^h570
+INUQ5@?LAh4mJV^cgC3FKC2
+R2
+R0
+w1600337156
+8D:/verilog execise/taskand.v
+FD:/verilog execise/taskand.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600338515.000000
+!s107 D:/verilog execise/taskand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/taskand.v|
+!i113 1
+R10
+R11
+vtest
+R26
+!i10b 1
+!s100 GV=Y]cIok2M3@7E>8XX>S1
+I_kUC_BFPfJ3Ib7Sa=`dXm2
+R2
+R0
+w1600338876
+8D:/verilog execise/factorial_fun_tb.v
+FD:/verilog execise/factorial_fun_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R27
+!s107 D:/verilog execise/factorial_fun_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/factorial_fun_tb.v|
+!i113 1
+R10
+R11
+vtraffic
+Z65 !s110 1600599120
+!i10b 1
+!s100 JL_Gd_^D4ORc2N0kQ33Eb0
+IO:UlIebbjVVdoT7G3<7=O1
+R2
+R0
+w1600599102
+8D:/verilog execise/traffic.v
+FD:/verilog execise/traffic.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z66 !s108 1600599120.000000
+!s107 D:/verilog execise/traffic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/traffic.v|
+!i113 1
+R10
+R11
+vtraffic_tb
+R65
+!i10b 1
+!s100 >N<Ilc1jj@3b3Hk31`;V23
+IM9ELBG30;BR`A0TYifX`53
+R2
+R0
+w1600596972
+8D:/verilog execise/traffic_tb.v
+FD:/verilog execise/traffic_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R66
+!s107 D:/verilog execise/traffic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/traffic_tb.v|
+!i113 1
+R10
+R11
+vvote
+!s110 1600280087
+!i10b 1
+!s100 5H8^N6P?:bHL>bNo]ROD[1
+IG0:SC@O_Ge1o^PW^0zF]N0
+R2
+R0
+w1600279896
+8D:\verilog execise\vote.v
+FD:\verilog execise\vote.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1600280087.000000
+!s107 D:\verilog execise\vote.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\verilog execise\vote.v|
+!i113 1
+R10
+R11
+vwatch
+Z67 !s110 1600539137
+!i10b 1
+!s100 nk?d7IGT]6k4><Xk8G7QI2
+IMX>RNBzlmNzX:>knKTlfc0
+R2
+R0
+w1600539128
+8D:/verilog execise/digit_watch.v
+FD:/verilog execise/digit_watch.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z68 !s108 1600539137.000000
+!s107 D:/verilog execise/digit_watch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/digit_watch.v|
+!i113 1
+R10
+R11
+vwatch_tb
+R67
+!i10b 1
+!s100 _klY2T3CVY4JLi5NOzk^T3
+I59`?l`lP1S?O>A38]zSji3
+R2
+R0
+w1600538064
+8D:/verilog execise/digit_watch_tb.v
+FD:/verilog execise/digit_watch_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R68
+!s107 D:/verilog execise/digit_watch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog execise/digit_watch_tb.v|
+!i113 1
+R10
+R11

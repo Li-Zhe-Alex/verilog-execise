@@ -1,0 +1,15 @@
+{D:/verilog execise/glitchfree_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/glitchfree_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module glitch_tb
+
+Top level modules:
+	glitch_tb
+
+} {} {}} {D:/verilog execise/glitchfree.v} {1 {vlog -work work -stats=none {D:/verilog execise/glitchfree.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module glitch
+
+Top level modules:
+	glitch
+
+} {} {}}

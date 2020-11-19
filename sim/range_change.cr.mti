@@ -1,0 +1,15 @@
+{D:/verilog execise/range_change.v} {1 {vlog -work work -stats=none {D:/verilog execise/range_change.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module range_change
+
+Top level modules:
+	range_change
+
+} {} {}} {D:/verilog execise/range_change_tb.v} {1 {vlog -work work -stats=none {D:/verilog execise/range_change_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module range_change_tb
+
+Top level modules:
+	range_change_tb
+
+} {} {}}
